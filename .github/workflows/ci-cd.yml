@@ -1,5 +1,4 @@
 name: CI/CD LAMP Docker
-name: CI/CD LAMP Docker
 
 on:
   push:
